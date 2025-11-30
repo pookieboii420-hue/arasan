@@ -1,1 +1,1 @@
-worker: python main.py
+worker: python OG-arasan-bot.py
